@@ -1,0 +1,14 @@
+D:\phuong.baocao\phuong.baocao\bin\Debug\net8.0\phuong.baocao.exe
+D:\phuong.baocao\phuong.baocao\bin\Debug\net8.0\phuong.baocao.deps.json
+D:\phuong.baocao\phuong.baocao\bin\Debug\net8.0\phuong.baocao.runtimeconfig.json
+D:\phuong.baocao\phuong.baocao\bin\Debug\net8.0\phuong.baocao.dll
+D:\phuong.baocao\phuong.baocao\bin\Debug\net8.0\phuong.baocao.pdb
+D:\phuong.baocao\phuong.baocao\obj\Debug\net8.0\phuong.baocao.GeneratedMSBuildEditorConfig.editorconfig
+D:\phuong.baocao\phuong.baocao\obj\Debug\net8.0\phuong.baocao.AssemblyInfoInputs.cache
+D:\phuong.baocao\phuong.baocao\obj\Debug\net8.0\phuong.baocao.AssemblyInfo.cs
+D:\phuong.baocao\phuong.baocao\obj\Debug\net8.0\phuong.baocao.csproj.CoreCompileInputs.cache
+D:\phuong.baocao\phuong.baocao\obj\Debug\net8.0\phuong.baocao.dll
+D:\phuong.baocao\phuong.baocao\obj\Debug\net8.0\refint\phuong.baocao.dll
+D:\phuong.baocao\phuong.baocao\obj\Debug\net8.0\phuong.baocao.pdb
+D:\phuong.baocao\phuong.baocao\obj\Debug\net8.0\phuong.baocao.genruntimeconfig.cache
+D:\phuong.baocao\phuong.baocao\obj\Debug\net8.0\ref\phuong.baocao.dll
